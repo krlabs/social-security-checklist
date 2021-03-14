@@ -1,6 +1,6 @@
 # Social Security Checklist
 
-Social Media Confidential Options, Privacy Policy
+Social Media Confidential Options, Privacy Policy, Terms
 
 <H2>Google</H2> 
 
@@ -16,7 +16,8 @@ Social Media Confidential Options, Privacy Policy
 10. https://chrome.google.com/sync
 11. https://adssettings.google.com/authenticated
 12. https://myaccount.google.com/security-checkup
-13. https://www.youtube.com/feed/history/comment_history
+13. https://policies.google.com/terms/service-specific
+14. https://www.youtube.com/feed/history/comment_history
 
 <H2>Facebook</H2>
 
@@ -33,6 +34,8 @@ Social Media Confidential Options, Privacy Policy
 11. https://www.facebook.com/help/?helpref=hc_global_nav
 12. https://www.facebook.com/communitystandards/misrepresentation/
 13. https://www.facebook.com/policies_center
+14. https://www.facebook.com/help/1090831264320592/?helpref=hc_fnav
+15. https://www.facebook.com/legal/terms
 
 <H2>Twitter</H2>
 
