@@ -40,7 +40,9 @@ Social Media Confidential Options, Privacy Policy, Terms
 <H2>Twitter</H2>
 
 1. https://twitter.com/settings/connected_apps
+2. https://twitter.com/en/privacy
 
 <H2>Linkedin</H2>
 
 1. https://www.linkedin.com/psettings/permitted-services
+2. https://www.linkedin.com/legal/privacy-policy
