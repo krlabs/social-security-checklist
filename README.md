@@ -46,3 +46,7 @@ Social Media Confidential Options, Privacy Policy, Terms
 
 1. https://www.linkedin.com/psettings/permitted-services
 2. https://www.linkedin.com/legal/privacy-policy
+
+<H2>Instagram</h2>
+
+1. https://help.instagram.com/581066165581870
