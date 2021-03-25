@@ -36,6 +36,9 @@ Social Media Confidential Options, Privacy Policy, Terms
 13. https://www.facebook.com/policies_center
 14. https://www.facebook.com/help/1090831264320592/?helpref=hc_fnav
 15. https://www.facebook.com/legal/terms
+16. https://www.facebook.com/adpreferences/advertisers/?entry_product=ad_preferences_delegation
+17. https://www.facebook.com/adpreferences/ad_topics
+18. https://www.facebook.com/adpreferences/ad_settings
 
 <H2>Twitter</H2>
 
