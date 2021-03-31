@@ -1,6 +1,6 @@
-# Social Security Checklist
+# Social Media Security Checklist
 
-Social Media Confidential Options, Privacy Policy, Terms
+Social Media Confidential Options/Configs page, Privacy Policy, Terms
 
 <H2>Google</H2> 
 
