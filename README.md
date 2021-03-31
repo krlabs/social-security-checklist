@@ -1,6 +1,6 @@
 # Social Media Security Checklist
 
-Social Media Confidential Options/Configs urls, Privacy Policy, Terms pages. Сonfiguring account security.
+✅ Сonfiguring social networks account security.
 
 <H2>Google</H2> 
 
