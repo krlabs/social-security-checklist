@@ -1,6 +1,6 @@
 # Social Media Security Checklist
 
-Social Media Confidential Options/Configs page, Privacy Policy, Terms
+Social Media Confidential Options/Configs urls, Privacy Policy, Terms pages
 
 <H2>Google</H2> 
 
