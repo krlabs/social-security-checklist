@@ -166,5 +166,6 @@ Tumblr
 8. <a href="https://safebrowsing.google.com/safebrowsing/report_badware/">Send report malicious to Google</a>
 9. <a href="https://safebrowsing.google.com/safebrowsing/report_phish/">Send report phisihing to Google</a>
 10. <a href="https://support.google.com/business/contact/gmb_3p_complaints">Google Business Complaint</a>
+11. <a href="https://www.facebook.com/contacts/removal">Facebook Contact Information Removal</a>
 
 <a href="https://support.google.com/webmasters/topic/9164606">About how delete info from Google</a>
